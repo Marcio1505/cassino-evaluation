@@ -10534,6 +10534,15 @@ a.la-item:hover {
   color: #f0f3f7 !important;
 }
 
+.col-menu{
+  display: flex;
+}
+
+.group{
+  display: flex;
+  width: 100%;
+}
+
 @font-face {
   font-display: swap;
   font-family: Noto Sans;
