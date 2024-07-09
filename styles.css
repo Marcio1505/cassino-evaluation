@@ -196,6 +196,7 @@ html {
   }
 }
 
+
 @media (min-width: 768px) and (max-width: 991px) {
   .visible-sm {
     display: block !important;
@@ -10534,14 +10535,15 @@ a.la-item:hover {
   color: #f0f3f7 !important;
 }
 
-.col-menu{
+
+/* .col-menu{
   display: flex;
 }
 
 .group{
   display: flex;
   width: 100%;
-}
+} */
 
 @font-face {
   font-display: swap;
