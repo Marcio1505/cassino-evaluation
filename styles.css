@@ -10536,14 +10536,29 @@ a.la-item:hover {
 }
 
 
-/* .col-menu{
+.article{
+  max-width: 1200px;
   display: flex;
+  flex-direction: column;
 }
 
-.group{
-  display: flex;
-  width: 100%;
-} */
+.article h1{
+  font-size: 2em;
+  font-weight: bold;
+  padding-bottom: 0.5rem ;
+}
+
+.time {
+  color: #aaaaaa;
+}
+.article div{
+padding-bottom: 1rem;
+}
+
+.article article{
+  font-size: 1.2em;
+  padding: 2rem 3rem;
+}
 
 @font-face {
   font-display: swap;
