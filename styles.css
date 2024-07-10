@@ -10560,6 +10560,10 @@ padding-bottom: 1rem;
   padding: 2rem 3rem;
 }
 
+.header-search{
+  display: none !important;
+}
+
 @font-face {
   font-display: swap;
   font-family: Noto Sans;
