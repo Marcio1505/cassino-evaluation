@@ -9800,6 +9800,7 @@ padding-bottom: 0.2rem;
 
 .results-content-loader.active {
   display: block;
+  z-index: 0;
 }
 
 .section-dark .results-content-loader h3 {
